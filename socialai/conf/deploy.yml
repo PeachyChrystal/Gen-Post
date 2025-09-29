@@ -1,0 +1,10 @@
+elasticsearch:
+  address: "http://136.115.185.134:9200"
+  username: "chrystal"
+  password: "Chrystal666!"
+
+gcs:
+  bucket: "socialai_chrystal_bucket"
+
+token:
+  secret: "secret"
